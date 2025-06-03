@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: container-1
-          image: docker pull prathima77/zomato-app:zomatoimage
+          image: prathima77/zomato-app:zomatoimage
           ports:
             - containerPort: 3000
