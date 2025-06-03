@@ -17,4 +17,4 @@ spec:
         - name: container-1
           image: shaikmustafa/dm
           ports:
-            - containerPort: 3000
+            - containerPort: 80
